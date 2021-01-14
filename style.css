@@ -1,0 +1,64 @@
+.nike-name a{
+    font-weight: 400;
+    color:blue;
+}
+.nike-react{
+    color:#071a52;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 500;
+    font-size: 75px;
+}
+.infinity-run{
+    color: #303a52;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 500;
+    font-size: 75px;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+h6{
+    color: rgb(82, 77, 77);
+}
+.cart-size{
+    width: 22px;
+}
+.buy-now{
+    color: white;
+    font-family: 'Mukta', sans-serif;
+    background-image: linear-gradient(to right, rgb(55, 59, 68), rgb(66, 134, 244)) ;
+}
+.shoe-title{
+    font-weight: bold;
+    color: rgb(36, 36, 105);
+}
+.last-small-image{
+    width: 60%;
+    height: 68.5%;
+}
+.last-big-image{
+    width: 100%;
+}
+.form-section{
+    background-color: cadetblue;
+}
+.form-footer, .nike-link{
+    color:rgb(38, 68, 68);
+}
+.submit-button{
+    background-image: linear-gradient(to right, rgb(31, 64, 55), rgb(153, 242, 200));
+}
+.nike-card{
+    border: 0;
+}
+.pricing{
+    color: #352680;
+    font-weight: bold;
+    font-size: 40px;
+}
+.form-heading{
+    color: #303a52;
+}
+.nike-link{
+    text-decoration: none;
+}
